@@ -1,0 +1,24 @@
+{
+  "alunos": [
+    {
+      "nome": "Alice Silva",
+      "serie": "9º ano"
+    },
+    {
+      "nome": "Carlos Oliveira",
+      "serie": "3º ano"
+    },
+    {
+      "nome": "Beatriz Santos",
+      "serie": "1º ano"
+    },
+    {
+      "nome": "Daniel Pereira",
+      "serie": "7º ano"
+    },
+    {
+      "nome": "Eduarda Lima",
+      "serie": "5º ano"
+    }
+  ]
+}
